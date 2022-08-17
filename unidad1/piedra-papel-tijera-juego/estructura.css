@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+footer{
+    text-align: center;
+    padding: 15px;
+}
+
+.contenedor{
+    max-width: px;
+    height: 100vh;
+    max-height: 1200px;
+    margin: 0 auto;
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+h1{
+    font-size: 300px;
+    text-align: center;
+    padding: 200px;
+}
+#resultado{
+    text-align: center;
+}
+
+#resultado{
+    width: 100%;
+}
+
+    
+
+#texto{
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+#botones{
+    display: flex;
+    width: 300%;
+}
+
+#botones > button > img{
+    width: 300%;
+}
